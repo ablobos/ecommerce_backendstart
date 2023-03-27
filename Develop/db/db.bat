@@ -1,6 +1,6 @@
 @ECHO OFF
 
-SET BINPATH=
+SET BINPATH= "C:\Program Files\MySQL\MySQL Server 8.0\bin"
 
 SET SQLPATH= "C:\Users\nxtlo\Desktop\ecommerce-backend_starter"
 
